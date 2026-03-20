@@ -2,7 +2,7 @@
   "name": "cranemaster",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://CraneMaster-IOT.github.io/cranemaster",
+  "homepage": "https://CraneMaster-IOT.github.io/craneMaster_ui",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
