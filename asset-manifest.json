@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cranemaster/static/css/main.b3b8faea.css",
+    "main.js": "/cranemaster/static/js/main.8d395957.js",
+    "index.html": "/cranemaster/index.html",
+    "main.b3b8faea.css.map": "/cranemaster/static/css/main.b3b8faea.css.map",
+    "main.8d395957.js.map": "/cranemaster/static/js/main.8d395957.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b8faea.css",
+    "static/js/main.8d395957.js"
+  ]
+}
