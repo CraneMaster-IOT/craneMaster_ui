@@ -8,7 +8,7 @@ import {
 } from '../api';
 import {
   StatusBadge, RangeSelector, LiveDuration,
-  LoadingState, ErrorState, EmptyState
+  LoadingState, ErrorState
 } from '../components/index';
 import { RunTimeBarChart, DirectionDonut, DailyBarChart } from '../components/Charts';
 import { SessionTable } from '../components/Tables';
@@ -43,7 +43,7 @@ export default function MotorDetail({
 
   const isOn = (motor.current_status || '').toUpperCase() === 'ON';
   const orientation = (motor.current_orientation || '').toUpperCase();
-  const motorTotal = totalRuntime?.find(t => t.motor_id === motorId);
+
 
   return (
     <div>
