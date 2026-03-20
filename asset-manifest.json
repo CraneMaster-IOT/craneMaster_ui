@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/cranemaster/static/css/main.b3b8faea.css",
-    "main.js": "/cranemaster/static/js/main.8d395957.js",
-    "index.html": "/cranemaster/index.html",
-    "main.b3b8faea.css.map": "/cranemaster/static/css/main.b3b8faea.css.map",
-    "main.8d395957.js.map": "/cranemaster/static/js/main.8d395957.js.map"
+    "main.css": "/craneMaster_ui/static/css/main.b3b8faea.css",
+    "main.js": "/craneMaster_ui/static/js/main.8d395957.js",
+    "index.html": "/craneMaster_ui/index.html",
+    "main.b3b8faea.css.map": "/craneMaster_ui/static/css/main.b3b8faea.css.map",
+    "main.8d395957.js.map": "/craneMaster_ui/static/js/main.8d395957.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b8faea.css",
